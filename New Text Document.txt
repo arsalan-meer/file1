@@ -1,5 +1,10 @@
 Arsalan
 skardu
 Technology
+ HEAD
 lahore
 pakistan
+
+teacher
+ 2nd-branch
+hhhh
